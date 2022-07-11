@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1070319058724",
+    "project_id": "silvermoon-c188a",
+    "storage_bucket": "silvermoon-c188a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070319058724:android:b772de5d539c3f7f6bfdb1",
+        "android_client_info": {
+          "package_name": "com.example.silver_moon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1070319058724-v5n6dcfaus2h0sj0li51cdtt332bs86e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_lB3j7BVNftLOVG4BDcRtu8Jocd3w4m4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1070319058724-v5n6dcfaus2h0sj0li51cdtt332bs86e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
